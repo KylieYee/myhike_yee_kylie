@@ -1,5 +1,5 @@
 // Import Firebase authentication tools
-import { logoutUser , onAuthReady} from '/src/authentication.js';   // Our function to log out the user
+import { logoutUser, onAuthReady } from "/src/authentication.js"; // Our function to log out the user
 
 class SiteNavbar extends HTMLElement {
   constructor() {
